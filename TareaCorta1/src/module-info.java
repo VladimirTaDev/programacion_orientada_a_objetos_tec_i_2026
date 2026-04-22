@@ -1,0 +1,2 @@
+module TareaCorta1 {
+}
